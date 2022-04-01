@@ -1,0 +1,1 @@
+Welcome to the Product Manager Nanodegree Program! In this lessonm you will learn more about the structure of the program.

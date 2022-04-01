@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:04,260
+For this exercise, imagine that the team is interested in building
+
+2
+00:00:04,260 --> 00:00:09,855
+a product to help people better track their fitness and improve their health over time.
+
+3
+00:00:09,855 --> 00:00:13,440
+Spend a little bit of time doing some research to better
+
+4
+00:00:13,440 --> 00:00:16,875
+understand current trends and the fitness tracking market.
+
+5
+00:00:16,875 --> 00:00:19,365
+Here's some questions to get you started.
+
+6
+00:00:19,365 --> 00:00:22,395
+What benefits does improving fitness provide?
+
+7
+00:00:22,395 --> 00:00:24,975
+What products are already in the market?
+
+8
+00:00:24,975 --> 00:00:29,190
+How much money and time do people spend on health and fitness?
+
+9
+00:00:29,190 --> 00:00:33,210
+What are some of the different ways to deliver fitness tracking,
+
+10
+00:00:33,210 --> 00:00:36,555
+and what are the pros and cons of those approaches?
+
+11
+00:00:36,555 --> 00:00:38,580
+Now spend a little bit of time answering
+
+12
+00:00:38,580 --> 00:00:41,370
+these questions and anything else that comes to mind,
+
+13
+00:00:41,370 --> 00:00:44,650
+and then check out my solution in the next video.
+

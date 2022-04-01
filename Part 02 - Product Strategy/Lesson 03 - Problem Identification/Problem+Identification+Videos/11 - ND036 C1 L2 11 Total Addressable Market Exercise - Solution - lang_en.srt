@@ -1,0 +1,88 @@
+1
+00:00:00,000 --> 00:00:03,000
+So now let's walk through the calculation that I did.
+
+2
+00:00:03,000 --> 00:00:06,750
+There's 330 million people in the United States,
+
+3
+00:00:06,750 --> 00:00:09,750
+and I'm assuming that streaming services is something that
+
+4
+00:00:09,750 --> 00:00:13,125
+most people will be interested in or you use at some point.
+
+5
+00:00:13,125 --> 00:00:16,950
+Similar to how traditional television has penetrated the market.
+
+6
+00:00:16,950 --> 00:00:20,415
+Most streaming services costs around $10 or so a month.
+
+7
+00:00:20,415 --> 00:00:22,395
+So that's the number I'm going to be using.
+
+8
+00:00:22,395 --> 00:00:25,890
+So if we take 330 million people and we
+
+9
+00:00:25,890 --> 00:00:30,300
+multiply it by $10 per month and 12 months in a year,
+
+10
+00:00:30,300 --> 00:00:34,470
+we end up with a TAM of $39.6 billion.
+
+11
+00:00:34,470 --> 00:00:36,975
+So let's refine this a little bit though.
+
+12
+00:00:36,975 --> 00:00:41,400
+Streaming services are generally sold and shared within a household,
+
+13
+00:00:41,400 --> 00:00:43,025
+not to individual people,
+
+14
+00:00:43,025 --> 00:00:45,890
+similar to how a cable TV subscription would work.
+
+15
+00:00:45,890 --> 00:00:50,375
+So there's roughly a 130 million households in the US.
+
+16
+00:00:50,375 --> 00:00:53,795
+The $10 per month price point will stay the same.
+
+17
+00:00:53,795 --> 00:00:56,585
+But if we update the equation to use
+
+18
+00:00:56,585 --> 00:01:01,250
+a 130 million households at $10 per month and 12 months in a year,
+
+19
+00:01:01,250 --> 00:01:04,910
+we end up with a TAM of $15.6 billion.
+
+20
+00:01:04,910 --> 00:01:08,450
+How did these numbers compared to the ones that you calculated?
+
+21
+00:01:08,450 --> 00:01:10,355
+Were they higher or lower?
+
+22
+00:01:10,355 --> 00:01:12,810
+Or maybe even the same.
+

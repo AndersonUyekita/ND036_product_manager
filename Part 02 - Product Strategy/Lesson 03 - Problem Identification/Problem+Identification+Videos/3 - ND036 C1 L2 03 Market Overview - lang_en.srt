@@ -1,0 +1,256 @@
+1
+00:00:00,000 --> 00:00:04,605
+Understanding the market is critical to building successful products.
+
+2
+00:00:04,605 --> 00:00:09,825
+Some markets are better than others and some products do a better job than others.
+
+3
+00:00:09,825 --> 00:00:13,020
+You'll want to find product/market fit.
+
+4
+00:00:13,020 --> 00:00:15,780
+So what exactly is product/market fit?
+
+5
+00:00:15,780 --> 00:00:19,140
+Well, product/market fit means being in
+
+6
+00:00:19,140 --> 00:00:23,100
+a good market with a product that can satisfy that market.
+
+7
+00:00:23,100 --> 00:00:27,105
+The next thing that you might be asking yourself is what makes a good market?
+
+8
+00:00:27,105 --> 00:00:30,240
+Let's talk through a few things that go into this.
+
+9
+00:00:30,240 --> 00:00:32,010
+The first is size.
+
+10
+00:00:32,010 --> 00:00:34,305
+The more people or the more need,
+
+11
+00:00:34,305 --> 00:00:38,420
+the more adoption and the easier it will be to monetize your product.
+
+12
+00:00:38,420 --> 00:00:40,340
+The next factor is growth.
+
+13
+00:00:40,340 --> 00:00:41,840
+Is the market growing?
+
+14
+00:00:41,840 --> 00:00:46,285
+Think about how many people have smartphones today compared to 20 years ago.
+
+15
+00:00:46,285 --> 00:00:48,315
+Lastly is acquisition.
+
+16
+00:00:48,315 --> 00:00:51,570
+How easy is it to get new customers?
+
+17
+00:00:51,570 --> 00:00:57,769
+Think about expanding your reach and your ability to explain your product to new users.
+
+18
+00:00:57,769 --> 00:01:01,775
+This can also include getting people to switch from competing products.
+
+19
+00:01:01,775 --> 00:01:04,160
+Think about how much friction there is between
+
+20
+00:01:04,160 --> 00:01:07,070
+switching from an Android phone to an iOS phone,
+
+21
+00:01:07,070 --> 00:01:10,205
+or from changing your e-mail provider from one to another.
+
+22
+00:01:10,205 --> 00:01:14,105
+It can be a little bit tricky to identify product/market fit,
+
+23
+00:01:14,105 --> 00:01:18,295
+but here are a few signs that you don't have good product/market fit.
+
+24
+00:01:18,295 --> 00:01:22,100
+First of all, if users aren't getting value from your product,
+
+25
+00:01:22,100 --> 00:01:25,054
+this will cause a whole bunch of other problems.
+
+26
+00:01:25,054 --> 00:01:26,765
+For example, as a result,
+
+27
+00:01:26,765 --> 00:01:30,215
+they won't recommend it or talk about your product with other people.
+
+28
+00:01:30,215 --> 00:01:33,275
+This also means that there's no excitement about your product.
+
+29
+00:01:33,275 --> 00:01:34,830
+The press doesn't really care,
+
+30
+00:01:34,830 --> 00:01:39,205
+or maybe the articles that are written about your product are boring and bland.
+
+31
+00:01:39,205 --> 00:01:43,700
+Lastly, all of this will lead to very slow growth and make it difficult
+
+32
+00:01:43,700 --> 00:01:48,115
+for you to sell your product because you are not providing any value for the user.
+
+33
+00:01:48,115 --> 00:01:49,790
+On the other side,
+
+34
+00:01:49,790 --> 00:01:53,945
+here are a few signs when you can tell that you've found good product/market fit.
+
+35
+00:01:53,945 --> 00:01:58,295
+It all starts with users getting a ton of value from using your product.
+
+36
+00:01:58,295 --> 00:02:01,180
+It's solving a super important need for them.
+
+37
+00:02:01,180 --> 00:02:02,990
+The product as a result,
+
+38
+00:02:02,990 --> 00:02:04,805
+will practically sell itself.
+
+39
+00:02:04,805 --> 00:02:07,175
+Users will recommend it to others,
+
+40
+00:02:07,175 --> 00:02:11,810
+and it's easy to immediately understand the value and why someone would want it.
+
+41
+00:02:11,810 --> 00:02:14,165
+The press is also super excited,
+
+42
+00:02:14,165 --> 00:02:18,005
+and they're banging on your door to talk to you about your product and learn more.
+
+43
+00:02:18,005 --> 00:02:21,575
+Lastly, because your product is in such high demand,
+
+44
+00:02:21,575 --> 00:02:24,070
+it can sometimes be difficult to keep up.
+
+45
+00:02:24,070 --> 00:02:26,870
+For example, maybe you are constantly
+
+46
+00:02:26,870 --> 00:02:30,155
+needing to add more servers in order to support your app.
+
+47
+00:02:30,155 --> 00:02:33,070
+So how can you get more insight into markets?
+
+48
+00:02:33,070 --> 00:02:35,890
+Well, there's lots of ways to do that.
+
+49
+00:02:35,890 --> 00:02:38,660
+It's important to familiarize yourself as much as
+
+50
+00:02:38,660 --> 00:02:42,290
+possible with what's going on around your product space.
+
+51
+00:02:42,290 --> 00:02:46,790
+This can be done by doing online research to better understand what's happening in
+
+52
+00:02:46,790 --> 00:02:49,070
+the market by staying up-to-date on
+
+53
+00:02:49,070 --> 00:02:52,490
+news that might be relevant to the problem that you're focused on.
+
+54
+00:02:52,490 --> 00:02:54,830
+You can also look at similar products in
+
+55
+00:02:54,830 --> 00:02:57,390
+the space and see how they've approached the problem,
+
+56
+00:02:57,390 --> 00:03:00,530
+and what's working well and maybe where they're struggling.
+
+57
+00:03:00,530 --> 00:03:04,429
+Trends can also provide very important insights.
+
+58
+00:03:04,429 --> 00:03:09,410
+One of the most helpful is Mary Meeker's Annual Internet Trends Report.
+
+59
+00:03:09,410 --> 00:03:14,635
+I read this every single year and there's tons and tons of interesting information.
+
+60
+00:03:14,635 --> 00:03:17,685
+I'll include a link to this report in the classroom.
+
+61
+00:03:17,685 --> 00:03:21,800
+Google Trends can also be a helpful tool to get a sense of
+
+62
+00:03:21,800 --> 00:03:26,120
+what people are searching for and how that is changing over time.
+
+63
+00:03:26,120 --> 00:03:29,150
+So now that you have an understanding of markets and
+
+64
+00:03:29,150 --> 00:03:33,120
+how to get insights about them, let's try it out.
+

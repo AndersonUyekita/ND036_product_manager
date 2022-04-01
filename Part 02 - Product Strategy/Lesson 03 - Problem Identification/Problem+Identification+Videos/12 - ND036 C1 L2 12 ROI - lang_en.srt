@@ -1,0 +1,308 @@
+1
+00:00:00,000 --> 00:00:06,945
+Understanding the ROI or Return on Investment of solving specific problems is critical.
+
+2
+00:00:06,945 --> 00:00:08,730
+As I've mentioned before,
+
+3
+00:00:08,730 --> 00:00:12,570
+there's an infinite number of problems that you and the team can be solving.
+
+4
+00:00:12,570 --> 00:00:15,645
+But there's only so many hours in the day.
+
+5
+00:00:15,645 --> 00:00:20,400
+Understanding and calculating ROI for different problems will help you to
+
+6
+00:00:20,400 --> 00:00:25,380
+understand where to focus your team's time in order to have the biggest impact.
+
+7
+00:00:25,380 --> 00:00:29,905
+ROI is a way to measure the efficiency of an investment,
+
+8
+00:00:29,905 --> 00:00:33,020
+like deciding to build a new product or feature.
+
+9
+00:00:33,020 --> 00:00:34,940
+In a mathematical sense,
+
+10
+00:00:34,940 --> 00:00:40,150
+it's the amount gained minus the amount spent divided by the amount spent.
+
+11
+00:00:40,150 --> 00:00:43,775
+Amount gained doesn't just have to be an increase in sales,
+
+12
+00:00:43,775 --> 00:00:46,210
+but it could also be cost savings.
+
+13
+00:00:46,210 --> 00:00:48,740
+You just want to make sure that you get
+
+14
+00:00:48,740 --> 00:00:51,935
+the impact into something that can be measured in dollars.
+
+15
+00:00:51,935 --> 00:00:54,455
+Keep in mind that these are just estimates,
+
+16
+00:00:54,455 --> 00:00:58,324
+and they can get pretty complicated when you start adding in lots of factors.
+
+17
+00:00:58,324 --> 00:01:00,980
+You should work with someone on the finance team or
+
+18
+00:01:00,980 --> 00:01:04,100
+the data science team to help build this out in more detail.
+
+19
+00:01:04,100 --> 00:01:07,745
+One thing that is important is that the higher the ROI is,
+
+20
+00:01:07,745 --> 00:01:09,545
+the better the business outcome.
+
+21
+00:01:09,545 --> 00:01:16,160
+This is because high ROI means that you're able to create more impact with less effort.
+
+22
+00:01:16,160 --> 00:01:18,005
+For many software products,
+
+23
+00:01:18,005 --> 00:01:19,780
+it'll look more like this;
+
+24
+00:01:19,780 --> 00:01:25,670
+Impact minus the cost of development time divided by the cost of development time.
+
+25
+00:01:25,670 --> 00:01:28,940
+We can estimate the cost of development time based on
+
+26
+00:01:28,940 --> 00:01:33,335
+how many people are involved and how long it takes to complete the project.
+
+27
+00:01:33,335 --> 00:01:36,725
+Imagine that there are four problems that you want to solve,
+
+28
+00:01:36,725 --> 00:01:43,070
+each problem has a cost and you have $5 that you can spend on solving problems.
+
+29
+00:01:43,070 --> 00:01:47,380
+You've also estimated the impact of solving each problem.
+
+30
+00:01:47,380 --> 00:01:50,085
+What are the right problems to solve?
+
+31
+00:01:50,085 --> 00:01:53,940
+At first glance, problem A looks like the best option.
+
+32
+00:01:53,940 --> 00:01:56,415
+It will cost you all $5,
+
+33
+00:01:56,415 --> 00:01:58,845
+but you'll get $18 in return.
+
+34
+00:01:58,845 --> 00:02:04,070
+But, make sure you look at solving problem B and D. Doing
+
+35
+00:02:04,070 --> 00:02:09,370
+this would only cost you $4 and you would get $20 in return.
+
+36
+00:02:09,370 --> 00:02:12,560
+You'll still have $1 left over when you
+
+37
+00:02:12,560 --> 00:02:15,880
+compare it to spending the $5 on solving problem A.
+
+38
+00:02:15,880 --> 00:02:20,700
+Now, let's go ahead and calculate the ROI for problem D. So remember,
+
+39
+00:02:20,700 --> 00:02:23,765
+this is the formula for calculating ROI.
+
+40
+00:02:23,765 --> 00:02:31,400
+So let's find the ROI for problem D. The impact is $10 and the cost of development is $1.
+
+41
+00:02:31,400 --> 00:02:34,495
+So $10 minus $1 is $9.
+
+42
+00:02:34,495 --> 00:02:38,240
+Then dividing that $9 by the cost of development,
+
+43
+00:02:38,240 --> 00:02:41,290
+which is $1, is 900 percent.
+
+44
+00:02:41,290 --> 00:02:45,275
+So after calculating the ROI for all of these problems,
+
+45
+00:02:45,275 --> 00:02:49,130
+we can see that solving problem D has the highest ROI.
+
+46
+00:02:49,130 --> 00:02:54,250
+Remember, we have $5 to spend on developing products.
+
+47
+00:02:54,250 --> 00:02:56,910
+Problem D will take $1 to solve.
+
+48
+00:02:56,910 --> 00:02:58,770
+After solving problem D,
+
+49
+00:02:58,770 --> 00:03:00,735
+we have $4 left.
+
+50
+00:03:00,735 --> 00:03:03,875
+Problem A has the next highest ROI,
+
+51
+00:03:03,875 --> 00:03:06,380
+but we only have $4 left.
+
+52
+00:03:06,380 --> 00:03:11,605
+So the next project that we should fund is solving problem B.
+
+53
+00:03:11,605 --> 00:03:15,580
+There's one other thing that can be helpful when understanding ROI,
+
+54
+00:03:15,580 --> 00:03:17,480
+it's called the payback period.
+
+55
+00:03:17,480 --> 00:03:20,530
+The payback period is the amount of time that it
+
+56
+00:03:20,530 --> 00:03:24,085
+takes for you to get the cost back from the product.
+
+57
+00:03:24,085 --> 00:03:28,565
+You can calculate the payback period by taking the cost,
+
+58
+00:03:28,565 --> 00:03:31,285
+and then dividing it by the impact of the project,
+
+59
+00:03:31,285 --> 00:03:35,410
+divided by the amount of time that it takes to realize that impact.
+
+60
+00:03:35,410 --> 00:03:40,600
+Let's go ahead and add how long it will take for the full impact to be realized.
+
+61
+00:03:40,600 --> 00:03:45,460
+Then the first thing we're going to do is calculate the payback by a year.
+
+62
+00:03:45,460 --> 00:03:50,435
+For problem A, the impact is $18 over three years.
+
+63
+00:03:50,435 --> 00:03:54,450
+This works out to a payback of $6 per year.
+
+64
+00:03:54,450 --> 00:03:59,695
+Here you can see that we've calculated the payback per year for each project,
+
+65
+00:03:59,695 --> 00:04:02,300
+and because we know the cost of the project,
+
+66
+00:04:02,300 --> 00:04:09,210
+we can also calculate the payback period by dividing the cost by the payback per year.
+
+67
+00:04:09,210 --> 00:04:19,410
+In this case, $5 divided by $6 per year ends up being 0.83 years or 10 months.
+
+68
+00:04:19,410 --> 00:04:22,400
+The payback period is also an important factor
+
+69
+00:04:22,400 --> 00:04:25,645
+to consider when deciding what problems to solve.
+
+70
+00:04:25,645 --> 00:04:28,700
+Calculating ROI and payback periods are
+
+71
+00:04:28,700 --> 00:04:33,940
+two important tools to help you understand if it makes sense to solve a problem.
+
+72
+00:04:33,940 --> 00:04:40,190
+Projects with positive ROIs will cover the investment required to build the product.
+
+73
+00:04:40,190 --> 00:04:44,975
+Projects with negative ROIs will not and won't make sense to pursue.
+
+74
+00:04:44,975 --> 00:04:49,625
+Calculating the payback period allows you to understand how long it'll take
+
+75
+00:04:49,625 --> 00:04:54,445
+before the product recoups the upfront investment that was required to build it.
+
+76
+00:04:54,445 --> 00:04:58,505
+It's important to understand the ROI and payback period for your product,
+
+77
+00:04:58,505 --> 00:05:02,610
+especially as you get closer to building a business case for it.
+

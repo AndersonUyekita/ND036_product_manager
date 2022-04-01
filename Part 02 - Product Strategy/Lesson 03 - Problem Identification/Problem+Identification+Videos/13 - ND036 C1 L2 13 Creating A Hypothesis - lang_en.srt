@@ -1,0 +1,208 @@
+1
+00:00:00,000 --> 00:00:01,650
+Before you build a product,
+
+2
+00:00:01,650 --> 00:00:04,470
+you want to make sure that it will be successful.
+
+3
+00:00:04,470 --> 00:00:08,160
+To make sure that your assumptions about your product are correct.
+
+4
+00:00:08,160 --> 00:00:11,700
+For example, that you're solving a real problem for real people.
+
+5
+00:00:11,700 --> 00:00:15,990
+You can create hypotheses based on what you know so far and then
+
+6
+00:00:15,990 --> 00:00:20,520
+test them to see if they're still accurate and hold true in the real world.
+
+7
+00:00:20,520 --> 00:00:23,850
+There's a couple of different types of hypotheses that you'll want to
+
+8
+00:00:23,850 --> 00:00:27,735
+test focused on the following aspects,
+
+9
+00:00:27,735 --> 00:00:30,825
+have you identified a customer need?
+
+10
+00:00:30,825 --> 00:00:33,030
+You'll need to take into account what are
+
+11
+00:00:33,030 --> 00:00:35,700
+the specific goals of your customers that they're trying to
+
+12
+00:00:35,700 --> 00:00:38,820
+reach and where is there an opportunity
+
+13
+00:00:38,820 --> 00:00:42,495
+for you to be able to help them reach those goals and meet their needs.
+
+14
+00:00:42,495 --> 00:00:45,505
+Does your solution meet that need?
+
+15
+00:00:45,505 --> 00:00:50,860
+This will depend based on exactly what your product does or doesn't do.
+
+16
+00:00:50,860 --> 00:00:54,025
+Is your solution differentiated?
+
+17
+00:00:54,025 --> 00:00:58,210
+How does your solution compared to other solutions out there?
+
+18
+00:00:58,210 --> 00:01:02,605
+Does your product create enough value for users?
+
+19
+00:01:02,605 --> 00:01:06,595
+When thinking through hypotheses related to customer needs,
+
+20
+00:01:06,595 --> 00:01:09,400
+the question you're really trying to answer is,
+
+21
+00:01:09,400 --> 00:01:12,315
+is this a real problem?
+
+22
+00:01:12,315 --> 00:01:16,585
+Is there urgency in finding a solution for this problem?
+
+23
+00:01:16,585 --> 00:01:19,660
+Think of a painkiller versus a vitamin,
+
+24
+00:01:19,660 --> 00:01:22,835
+painkillers provide immediate relief.
+
+25
+00:01:22,835 --> 00:01:25,050
+Vitamins for the most part,
+
+26
+00:01:25,050 --> 00:01:27,025
+are just nice to have.
+
+27
+00:01:27,025 --> 00:01:32,750
+Does this problem require a painkiller or are you just building a vitamin?
+
+28
+00:01:32,750 --> 00:01:35,420
+If there's no need or urgency,
+
+29
+00:01:35,420 --> 00:01:37,850
+it's likely that the product will fail.
+
+30
+00:01:37,850 --> 00:01:41,590
+When creating hypotheses related to your solution,
+
+31
+00:01:41,590 --> 00:01:44,030
+the question you're trying to answer is,
+
+32
+00:01:44,030 --> 00:01:47,075
+does your solution really solve the problem?
+
+33
+00:01:47,075 --> 00:01:50,060
+It's also helpful here to think through what are
+
+34
+00:01:50,060 --> 00:01:54,775
+the alternatives that the user has if they don't go with your solution?
+
+35
+00:01:54,775 --> 00:01:59,240
+How does your solution compare to everything else out there?
+
+36
+00:01:59,240 --> 00:02:03,190
+Is it about the same or is it way better?
+
+37
+00:02:03,190 --> 00:02:07,070
+For differentiation, the question you're trying to answer is,
+
+38
+00:02:07,070 --> 00:02:09,995
+is our product the same or different?
+
+39
+00:02:09,995 --> 00:02:11,885
+How is it different?
+
+40
+00:02:11,885 --> 00:02:15,380
+What does it do that other products don't?
+
+41
+00:02:15,380 --> 00:02:20,585
+Lastly, for value, the question you need to answer is,
+
+42
+00:02:20,585 --> 00:02:26,110
+does your solution create enough value for users that they're willing to pay for it?
+
+43
+00:02:26,110 --> 00:02:28,895
+If so, how much?
+
+44
+00:02:28,895 --> 00:02:31,655
+It can also be interesting to think through
+
+45
+00:02:31,655 --> 00:02:34,925
+what would increase a user's willingness to pay,
+
+46
+00:02:34,925 --> 00:02:38,505
+especially if the answer to the last question was no.
+
+47
+00:02:38,505 --> 00:02:41,900
+It's also helpful to think through how much do
+
+48
+00:02:41,900 --> 00:02:45,595
+people currently pay for alternative solutions.
+
+49
+00:02:45,595 --> 00:02:49,070
+So we just talked a little bit about the different types of hypotheses that
+
+50
+00:02:49,070 --> 00:02:52,715
+you can create and how they can be important and helpful.
+
+51
+00:02:52,715 --> 00:02:54,155
+In the next video,
+
+52
+00:02:54,155 --> 00:02:56,820
+we'll talk about how you can test them.
+

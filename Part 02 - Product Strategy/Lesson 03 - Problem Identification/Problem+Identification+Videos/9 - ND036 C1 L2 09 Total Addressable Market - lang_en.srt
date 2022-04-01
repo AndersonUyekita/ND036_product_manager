@@ -1,0 +1,284 @@
+1
+00:00:00,000 --> 00:00:05,235
+Now, we're going to talk a little bit about TAM or Total Addressable Market.
+
+2
+00:00:05,235 --> 00:00:09,795
+TAM is a measure of the revenue opportunity for our product.
+
+3
+00:00:09,795 --> 00:00:14,125
+Keep in mind that TAM is not a measure of your revenue or future revenue,
+
+4
+00:00:14,125 --> 00:00:16,670
+but it allows you to understand the size of
+
+5
+00:00:16,670 --> 00:00:19,805
+the market if you had 100 percent of the market.
+
+6
+00:00:19,805 --> 00:00:25,790
+A larger TAM indicates a larger opportunity with more demand for a particular product.
+
+7
+00:00:25,790 --> 00:00:28,190
+However, just because there's a large
+
+8
+00:00:28,190 --> 00:00:32,540
+TAM doesn't mean that your product is guaranteed to be successful,
+
+9
+00:00:32,540 --> 00:00:36,775
+there's lots of other factors that will come into play, like competition.
+
+10
+00:00:36,775 --> 00:00:40,310
+TAM is defined as average revenue per
+
+11
+00:00:40,310 --> 00:00:45,380
+user times the total number of potential users in the market.
+
+12
+00:00:45,380 --> 00:00:48,065
+There's a couple of different ways to measure TAM,
+
+13
+00:00:48,065 --> 00:00:50,570
+and we're going to walk through three of the most common.
+
+14
+00:00:50,570 --> 00:00:52,690
+First, there's top down,
+
+15
+00:00:52,690 --> 00:00:54,465
+then there's bottom up,
+
+16
+00:00:54,465 --> 00:00:56,655
+and finally, there's value theory.
+
+17
+00:00:56,655 --> 00:00:59,250
+Let's get started with the top down method.
+
+18
+00:00:59,250 --> 00:01:05,495
+The top down method uses industry research to estimate the size of an addressable market,
+
+19
+00:01:05,495 --> 00:01:10,270
+this approach starts from a high macro-level view of the economy.
+
+20
+00:01:10,270 --> 00:01:13,285
+You start with the total number of people in the world,
+
+21
+00:01:13,285 --> 00:01:18,070
+and then you narrow down that number based on factors like demographics.
+
+22
+00:01:18,070 --> 00:01:20,970
+This goes all the way down to your target user.
+
+23
+00:01:20,970 --> 00:01:23,620
+These calculations can be quite complex,
+
+24
+00:01:23,620 --> 00:01:28,690
+but you can also build a simple top down TAM using stats that are available.
+
+25
+00:01:28,690 --> 00:01:33,860
+Let's walk through an example to find the TAM for bottled water in the United States.
+
+26
+00:01:33,860 --> 00:01:38,935
+We know that there's roughly 7.8 billion people on Earth,
+
+27
+00:01:38,935 --> 00:01:44,725
+and we know that there are roughly 330 million people that live in the United States.
+
+28
+00:01:44,725 --> 00:01:50,510
+We also know that each person needs about two liters of water per day,
+
+29
+00:01:50,510 --> 00:01:53,645
+and we know that we're going to charge one $1 liter.
+
+30
+00:01:53,645 --> 00:01:56,510
+There's 330 million people in
+
+31
+00:01:56,510 --> 00:02:00,995
+the United States and they each need two liters of water per day.
+
+32
+00:02:00,995 --> 00:02:03,770
+We're going to charge $1 per liter,
+
+33
+00:02:03,770 --> 00:02:07,360
+and there's 365 days in a year.
+
+34
+00:02:07,360 --> 00:02:12,255
+This works out to a total TAM of $241 billion.
+
+35
+00:02:12,255 --> 00:02:16,820
+The second method for measuring TAM is a bottoms up approach,
+
+36
+00:02:16,820 --> 00:02:20,150
+this involves using known data points that you have,
+
+37
+00:02:20,150 --> 00:02:23,270
+this could come from early customers and sales,
+
+38
+00:02:23,270 --> 00:02:27,410
+although you could potentially use theoretical customers and sales as well,
+
+39
+00:02:27,410 --> 00:02:32,705
+and then extrapolating them to represent a larger market opportunity.
+
+40
+00:02:32,705 --> 00:02:37,070
+Imagine that we're already selling bottled water in the State of California,
+
+41
+00:02:37,070 --> 00:02:41,315
+and we're interested in expanding it to the rest of the United States.
+
+42
+00:02:41,315 --> 00:02:44,075
+But before we do this, we want to understand the TAM.
+
+43
+00:02:44,075 --> 00:02:46,009
+With the bottoms up approach,
+
+44
+00:02:46,009 --> 00:02:49,140
+we can look at our existing sales and scale it.
+
+45
+00:02:49,140 --> 00:02:53,315
+In this example, we're still selling water for $1 a liter,
+
+46
+00:02:53,315 --> 00:02:55,315
+the price is exactly the same.
+
+47
+00:02:55,315 --> 00:02:59,330
+But we know that we sell 10 million liters every day,
+
+48
+00:02:59,330 --> 00:03:04,475
+we also know that the population of California is about 40 million people.
+
+49
+00:03:04,475 --> 00:03:09,850
+This means that we sell one liter of water per day for every four people.
+
+50
+00:03:09,850 --> 00:03:14,575
+We know that there are about 330 million people in the United States.
+
+51
+00:03:14,575 --> 00:03:16,975
+So switching out the population,
+
+52
+00:03:16,975 --> 00:03:23,000
+we get that the TAM for the United States for bottled water is $30.1 billion,
+
+53
+00:03:23,000 --> 00:03:26,770
+this is a pretty big difference compared to the top down approach.
+
+54
+00:03:26,770 --> 00:03:28,240
+In the top down approach,
+
+55
+00:03:28,240 --> 00:03:30,430
+we used some pretty crude assumptions,
+
+56
+00:03:30,430 --> 00:03:32,275
+whereas in the bottoms up approach,
+
+57
+00:03:32,275 --> 00:03:34,900
+we already had some insight into how many people
+
+58
+00:03:34,900 --> 00:03:38,210
+would actually consider purchasing bottled water.
+
+59
+00:03:38,210 --> 00:03:43,850
+The last approach is the value theory approach and it's best used for brand
+
+60
+00:03:43,850 --> 00:03:46,550
+new product categories where you don't really
+
+61
+00:03:46,550 --> 00:03:49,700
+have much information to base any of your estimates on.
+
+62
+00:03:49,700 --> 00:03:52,795
+There's two main questions that you need to answer.
+
+63
+00:03:52,795 --> 00:03:56,210
+How much are people willing to pay for the product?
+
+64
+00:03:56,210 --> 00:03:59,030
+How many will purchase the product?
+
+65
+00:03:59,030 --> 00:04:00,410
+To get these numbers,
+
+66
+00:04:00,410 --> 00:04:05,420
+you'll have to do a lot of research and talk with users to see what they would
+
+67
+00:04:05,420 --> 00:04:07,790
+be willing to pay and to figure out
+
+68
+00:04:07,790 --> 00:04:11,045
+an estimate for how many potential customers you have.
+
+69
+00:04:11,045 --> 00:04:14,000
+We just talked about what TAM is and how there's
+
+70
+00:04:14,000 --> 00:04:17,330
+three different methods that you can use for calculating that.
+
+71
+00:04:17,330 --> 00:04:20,130
+Now, you should give it a try.
+

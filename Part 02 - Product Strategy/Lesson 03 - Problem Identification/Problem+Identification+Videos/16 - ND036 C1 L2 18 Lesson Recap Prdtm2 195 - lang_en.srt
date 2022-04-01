@@ -1,0 +1,84 @@
+1
+00:00:00,000 --> 00:00:04,170
+At this point, you should be able to: identify problems that are
+
+2
+00:00:04,170 --> 00:00:09,040
+worthwhile to solve while thinking through market research and user research;
+
+3
+00:00:09,040 --> 00:00:14,970
+understand the market through deeper research and identify good markets based on size,
+
+4
+00:00:14,970 --> 00:00:19,545
+growth, and acquisition, as well as identifying product-market fit;
+
+5
+00:00:19,545 --> 00:00:22,890
+identify your target user which has
+
+6
+00:00:22,890 --> 00:00:26,295
+shared characteristics and are likely interested in your product,
+
+7
+00:00:26,295 --> 00:00:30,915
+as well as being able to build user personas that include frustrations,
+
+8
+00:00:30,915 --> 00:00:35,670
+goals, and motivations; calculate the TAM for your product,
+
+9
+00:00:35,670 --> 00:00:39,555
+as well as understand three different methods for calculating,
+
+10
+00:00:39,555 --> 00:00:43,635
+including top-down, bottoms up and value theory;
+
+11
+00:00:43,635 --> 00:00:49,205
+calculate the ROI for solving a problem and the associated payback period;
+
+12
+00:00:49,205 --> 00:00:54,395
+define hypotheses about your product that need to be validated around customer need,
+
+13
+00:00:54,395 --> 00:00:57,595
+your solution, differentiation, and value;
+
+14
+00:00:57,595 --> 00:01:00,740
+test your hypotheses by putting them in front of users,
+
+15
+00:01:00,740 --> 00:01:04,055
+either through user interviews, focus groups, surveys,
+
+16
+00:01:04,055 --> 00:01:07,104
+or by running a design sprint; and lastly,
+
+17
+00:01:07,104 --> 00:01:10,160
+understand the components required to build a business case,
+
+18
+00:01:10,160 --> 00:01:13,520
+so that it's easy for stakeholders to understand the size,
+
+19
+00:01:13,520 --> 00:01:15,715
+impact, and importance of the problem.
+
+20
+00:01:15,715 --> 00:01:17,985
+Congrats on completing Lesson 2.
+
+21
+00:01:17,985 --> 00:01:23,040
+I'll see you in the next lesson when we talk about vision and strategy.
+
