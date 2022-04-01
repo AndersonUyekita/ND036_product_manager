@@ -1,4 +1,12 @@
+# `Part 02` Product Strategy
 
+#### Tags
+
+* Title: Introduction to Product Management
+* Date: 01/04/2022
+* Course: Product Manager Nanodegree
+    * Instructor: Alex King
+    * COD: ND036
 
 ### Lesson 01
 

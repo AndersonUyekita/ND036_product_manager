@@ -1,1 +1,14 @@
-Welcome to the Product Manager Nanodegree Program! In this lessonm you will learn more about the structure of the program.
+# `Lesson 01` Product Strategy
+
+#### Tags
+
+* Title: Product Manager Nanodegree Program Introduction
+* Date: 29/03/2022
+* Course: Product Manager Nanodegree
+    * Instructor: Alex King
+    * COD: ND036
+***
+
+## Class notation
+
+Sebastian Thrun and Alex King have introduced themselves.
