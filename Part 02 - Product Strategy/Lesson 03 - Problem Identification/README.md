@@ -70,6 +70,35 @@ its means:
 
 ### 3. Understanding the Market
 
+> Understanding the market is critical to building successful products. Some markets are better than others. And some products do a better job than others. You’ll want to make sure that your product satisfies the needs of the market.
+
+That is you need to find the **product/market fit**. Figure 3 presents the definition of it according to Marc Andreesen.
+
+![Product Market Fit](lesson_03_figure_03.png)
+
+#### What makes a good market?
+
+> Understanding the market allows you to focus on solving the right problem. Keep in mind that some markets are better than others.
+
+Factors to consider when analyzing the market.
+
+|Characteristics|Description|
+|:-------------:|-----------|
+|Size|If you have a small market, it will be challenging to monetize over this audience.|
+|Growth|What is the future of this market? Is it going to grow? If you develop a product for a decadent market, you will be in trouble.|
+|Acquisition|How easy is it to get new customers? How easy is it to convince competitors' users to migrate to your product? Then, think about the friction it could lead to the user switching from iOS to Android.|
+
+Figure 04 presents a simple comparison between with and without Product/Market Fit.
+
+![Comparison between No Produc/Market Fit vs Product/Market Fit](lesson_03_figure_04.png)
+
+#### Ways to get more Market insights
+
+> To better understand the market, you’ll want to talk to your users and customers. But before you do, you can look at some of these things to get more familiarity with the market:
+
+
+
+
 ### 4. Exercise: Industry Trends
 
 ### 5. Solution: Industry Trends
