@@ -8,6 +8,7 @@
 * Course: Product Manager Nanodegree
     * Instructor: Alex King
     * COD: ND036
+    * URL: https://www.udacity.com/course/product-manager-nanodegree--nd036
 
 ***
 
