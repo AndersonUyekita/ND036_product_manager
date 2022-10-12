@@ -25,7 +25,7 @@ In this lesson, we will cover the following topics:
 
 > The most challenging thing to do is to decide what not to solve.
 
-![](1_1.png)
+![](./Figure/1_1.png)
 
 At the end of this lesson, you’ll be able to:
 
@@ -67,12 +67,13 @@ Why is it so important to solve the right problem?
 
 Figure 1 shows the tradeoff between **Business Goals** (Revenue, New
 Users, Engagement, Costs Reduction, Churn Reduction, etc.) and
-**Problems**. s ![Viable Product Opportunities](lesson_03_figure_01.png)
+**Problems**. s ![Viable Product
+Opportunities](./Figure/lesson_03_figure_01.png)
 
 If we overlap these two objectives, we will find **Viable Product
 Opportunities**.
 
-![Citation - Sam Altman](lesson_03_figure_02.png)
+![Citation - Sam Altman](./Figure/lesson_03_figure_02.png)
 
 its means:
 
@@ -90,7 +91,7 @@ its means:
 That is you need to find the **product/market fit**. Figure 3 presents
 the definition of it according to Marc Andreesen.
 
-![Product Market Fit](lesson_03_figure_03.png)
+![Product Market Fit](./Figure/lesson_03_figure_03.png)
 
 ### What makes a good market?
 
@@ -109,7 +110,7 @@ Figure 04 presents a simple comparison between with and without
 Product/Market Fit.
 
 ![Comparison between No Produc/Market Fit vs Product/Market
-Fit](lesson_03_figure_04.png)
+Fit](./Figure/lesson_03_figure_04.png)
 
 ### Ways to get more Market insights
 
@@ -171,7 +172,7 @@ Remember, if you are building and designing a calculator for a Grade
 School, it will be very different if you make it for Scientists, as
 shown in Figure 5.
 
-![Calulator for Different Users](lesson_03_figure_05.png)
+![Calulator for Different Users](./Figure/lesson_03_figure_05.png)
 
 These users have very different needs and very different goals. In
 addition, those audiences have different purchasing power.
@@ -236,7 +237,7 @@ The creation process of a persona consist in define:
 Figure 6 shows a Persona Example of a student who has a problem getting
 exercise.
 
-![Persona Example](lesson_03_figure_06.png)
+![Persona Example](./Figure/lesson_03_figure_06.png)
 
 ## 7. Exercise: Target User
 
@@ -250,16 +251,17 @@ exercise.
 ## 8. Solution: Target User
 
 ![Meet John– our new year resolution user
-Close](lesson_03_figure_07.png)
+Close](./Figure/lesson_03_figure_07.png)
 
-![Meet Sally– our first time marathon runner](lesson_03_figure_08.png)
+![Meet Sally– our first time marathon
+runner](./Figure/lesson_03_figure_08.png)
 
 ![Meet Chris– our avid runner who wants to beat his
-record](lesson_03_figure_09.png)
+record](./Figure/lesson_03_figure_09.png)
 
 ## 9. Total Addressable Market
 
-![TAM Definition](lesson_03_figure_10.png)
+![TAM Definition](./Figure/lesson_03_figure_10.png)
 
 > Keep in mind that **TAM is not a measure of your revenue or future
 > revenue**.
@@ -270,7 +272,7 @@ will be successful.
 
 Figure 11 shows the TAM Formula.
 
-![TAM Formula](lesson_03_figure_11.png)
+![TAM Formula](./Figure/lesson_03_figure_11.png)
 
 Where: \* ARPU stands for The average amount of revenue you receive for
 each user you have, usually measured by year.
@@ -288,7 +290,7 @@ There are 3 (three) maners to calculate the TAM:
 > start will everyone in the world and narrow down that audience to
 > people who are interested in your product.
 
-![TAM Top-Down Approach](lesson_03_figure_12.png)
+![TAM Top-Down Approach](./Figure/lesson_03_figure_12.png)
 
 In the top-down approach, we use very crude assumptions. For this
 reason, we have estimated the TAM as USD 241 billion.
@@ -304,7 +306,7 @@ Current users data from California: \* 1 USD per 1 liter; \* 10 millions
 of liter per day, and; \* California population is about 40 million
 people.
 
-![TAM Bottom-up approach](lesson_03_figure_13.png)
+![TAM Bottom-up approach](./Figure/lesson_03_figure_13.png)
 
 Due to the data from California, we could refine the TAM using the
 bottom-up approach. So the TAM estimated is USD 30.1 billion.
@@ -326,7 +328,7 @@ willing to pay and estimate the potential number of customers.
 
 ## 11. Solution: TAM
 
-![Streaming TAM](lesson_03_figure_14.png)
+![Streaming TAM](./Figure/lesson_03_figure_14.png)
 
 TAM for streaming in the US is \$15.6B
 
@@ -337,7 +339,7 @@ activities/projects of a product. In other words, ROI is a way to
 measure the efficiency of an investment. Figure 15 shows the ROI
 formula.
 
-![ROI Calculation](lesson_03_figure_15.png)
+![ROI Calculation](./Figure/lesson_03_figure_15.png)
 
 Where: \* Amount gained: Could be costs savings and increase of revenue.
 
@@ -348,7 +350,8 @@ This means you could be able to create more impact with less effort.
 In the case of software development, the ROI will be a little different,
 according to Figure 16.
 
-![ROI Calculation for Software Development](lesson_03_figure_16.png)
+![ROI Calculation for Software
+Development](./Figure/lesson_03_figure_16.png)
 
 Where:
 
@@ -360,7 +363,7 @@ Where:
 Suppose we have calculated the Product ROI of 4 projects/problems.
 Figure 17 presents the details.
 
-![Prioritization without ROI](lesson_03_figure_17.png)
+![Prioritization without ROI](./Figure/lesson_03_figure_17.png)
 
 In this problem, you have a budget constraint of \$5.
 
@@ -372,7 +375,7 @@ make a composition of Problem B and D, you will reach \$20 of impact and
 If you have calculated the ROI for the problems, you will be able to
 understand the better choices better, as presented in Figure 18.
 
-![Prioritization with ROI](lesson_03_figure_18.png)
+![Prioritization with ROI](./Figure/lesson_03_figure_18.png)
 
 Takeaways: \* The best ROI is related to Problem D; \* The second one is
 Problem A, but we can not afford (we only have \$4), and; \* The last
@@ -387,7 +390,7 @@ What is the payback period?
 
 Figure 18 shows the payback of Problem A to D.
 
-![Payback Calculation](lesson_03_figure_19.png)
+![Payback Calculation](./Figure/lesson_03_figure_19.png)
 
 > Calculating ROI and payback periods are two important tools to help
 > you understand if it makes sense to solve a problem. Projects with
@@ -461,7 +464,7 @@ an existing product, just the PRD is enough.
 Figure 20 presents all the Topics you want to make sure are covered in
 your Business Plan.
 
-![Topics of Business Plan](lesson_03_figure_20.png)
+![Topics of Business Plan](./Figure/lesson_03_figure_20.png)
 
 Based on the topics above, the business case should organize into the
 following sections:

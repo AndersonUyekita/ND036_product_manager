@@ -323,7 +323,7 @@ Will cover:
 -   Who they work with, and;
 -   Artifacts that PM creates (like roadmaps and PRD’s).
 
-![](5_1.png)
+![](./Figure/5_1.png)
 
 #### Finding the Right Problem
 
@@ -333,7 +333,7 @@ Will cover:
 -   Understand the market, user, and problem, and;
 -   Create hypotheses and test them.
 
-![](5_2.png)
+![](./Figure/5_2.png)
 
 #### Vision and Strategy
 
@@ -343,7 +343,7 @@ Will cover:
 -   MVP (Minimum Viable Products), and;
 -   Different Business Models.
 
-![](5_3.png)
+![](./Figure/5_3.png)
 
 #### Communication Skills
 
@@ -353,7 +353,7 @@ Will cover:
 -   How to use Storytelling to estabilish powerful visions, and;
 -   Building compelling presentations.
 
-![](5_4.png)
+![](./Figure/5_4.png)
 
 #### Learning Objectives
 
@@ -366,4 +366,4 @@ Will cover:
 > -   Put together and present a compelling product pitch to gain
 >     internal stakeholder buy-in
 
-![](5_5.png)
+![](./Figure/5_5.png)

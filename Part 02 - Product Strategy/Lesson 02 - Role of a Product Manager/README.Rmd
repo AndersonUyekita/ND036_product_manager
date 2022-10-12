@@ -1,6 +1,14 @@
-# `Lesson 02` Product Strategy
-
-#### Tags
+---
+title: '`Lesson 02` Product Strategy'
+author: Anderson Uyekita
+output:
+  github_document: default
+  html_document:
+    theme: spacelab
+    toc: true
+    toc_float: true
+    toc_depth: 4
+---
 
 * Title: Role of a Product Manager
 * Course: Product Manager Nanodegree
@@ -9,7 +17,7 @@
     * Start: Tuesday, 25 March 2022
     * Finish: Wednesday, 29 March 2022
 
-***
+--------------------------------------------------------------------------------
 
 ## Class Notation
 
@@ -23,7 +31,7 @@
 >* Identifying Requirements
 >* The Roadmap & PRD
 
-![](1_1.png)
+![](./Figure/1_1.png)
 
 >At the end of this lesson, you’ll be able to:
 >
@@ -37,11 +45,11 @@
 
 The PM is well known to be the person in charge of leading the team to solve the problem successfully (building products that people want), but there is some variability. Figure 1 presents where the PM is positioned (in the center of Design, Business, and Technology).
 
-![The PM Venn Diagram - Design, Business, and Technology](./lesson_02_figure_01.jpg)
+![The PM Venn Diagram - Design, Business, and Technology](./Figure/lesson_02_figure_01.jpg)
 
 The PM needs to have a background in all those three dimensions to be successful. Figure 2 shows the roles of a PM.
 
-![The roles of a Product Manager](./lesson_02_figure_02.png)
+![The roles of a Product Manager](./Figure/lesson_02_figure_02.png)
 
 ##### i. Idea to Launch
 
@@ -82,7 +90,7 @@ In addition, the PM should understand all requirements to build the product, dis
 
 Figure 3 shows two different types of PMs.
 
-![Company Size & PM Types](./lesson_02_figure_03.png)
+![Company Size & PM Types](./Figure/lesson_02_figure_03.png)
 
 The PM's responsibility could vary significantly according to the company size and the product. For example, it's more likely that PMs will have more end-to-end responsibility at smaller companies and wear more hats. On the other hand, larger companies will often allow PMs to maintain a narrow focus and go super deep into that area.
 
@@ -102,25 +110,25 @@ It is super important to be in touch with other PMs in large companies to unders
 
 ##### 1. Product led
 
-![Product Led Philosophy](./lesson_02_figure_04.png)
+![Product Led Philosophy](./Figure/lesson_02_figure_04.png)
 
 EXAMPLE: Amazon Prime - easy, fast and convenient
 
 ##### 2. Engineering led
 
-![Engineering Led Philosophy](./lesson_02_figure_05.png)
+![Engineering Led Philosophy](./Figure/lesson_02_figure_05.png)
 
 EXAMPLE: Google Glass - Amazing technology but not solving a problem
 
 ##### 3. Product + Eng partnership (hybrid)
 
-![Product + Eng partnership Philosophy](./lesson_02_figure_06.png)
+![Product + Eng partnership Philosophy](./Figure/lesson_02_figure_06.png)
 
 #### Type of User
 
 According to the audience of the products, the PM should focus on different aspects of the development. Figure 7 presents a simple resume of it.
 
-![Type of Users](./lesson_02_figure_07.png)
+![Type of Users](./Figure/lesson_02_figure_07.png)
 
 The PMs can also specialize in different types of product, such as:
 
@@ -142,35 +150,35 @@ The PM has a lot of activities, and it depends on the development journey of the
 
 1. Identifying problems: It is the core of the PM activities;
 
-![](3_1.png)
+![](./Figure/3_1.png)
 
 2. Creating solutions: The PM will build strategies for how to solve the problem;
 
-![](3_2.png)
+![](./Figure/3_2.png)
 
 3. Planning: How to split the product into smaller deliverables;
 
-![](3_3.png)
+![](./Figure/3_3.png)
 
 4. UX design: Building mocks, reviewing the mock, running usability tests;
 
-![](3_4.png)
+![](./Figure/3_4.png)
 
 5. Implementation: Following the development progress, answering any doubts about the requirements;
 
-![](3_5.png)
+![](./Figure/3_5.png)
 
 6. Testing: How should it work? What do we need to fix?;
 
-![](3_6.png)
+![](./Figure/3_6.png)
 
 7. Launch: How to roll out? Minor patches?;
 
-![](3_7.png)
+![](./Figure/3_7.png)
 
 8. Review: Lesson learned.
 
-![](3_8.png)
+![](./Figure/3_8.png)
 
 PMs do a variety of things in order to help the team figure out what product to build and get it out the door:
 
@@ -212,77 +220,77 @@ All PMs write PRDs to frame the problem and document requirements for the soluti
 
 The PM works with EVERYONE. They interact with all stakeholders throughout the product development cycle. They act like a hub to connect all different parts and teams related to the product.
 
-![](4_1.png)
+![](./Figure/4_1.png)
 
 * Research
   * Role: Help to answer essential questions, discover new key user insights, and get feedback from usability tests.
   * Interactions: Share research findings, participate in field research, etc.
  
-![](4_2.png)
+![](./Figure/4_2.png)
 
 * Design
   * Role: Design how the product looks, how the user will use/interact with the product, guarantee we are solving the correct user's problem.
   * Interactions: Reviews mocks and PRDs, keeps track of the product scope and definition and manages the ideal design versus time and technical limitations.
 
-![](4_3.png)
+![](./Figure/4_3.png)
 
 * Engineering
   * Role: Build the product, maintain the product, solve hard problems.
   * Interactions: review requirement in PRDs, discuss feasibility and timelines, Tackle technical debts.
 
-![](4_4.png)
+![](./Figure/4_4.png)
 
 * Technical Program Managers (TPM) and Program Managers (PgM)
     * Role: Project Management, Report status of projects, Keep the team on schedule, and flag any risks and slips in schedule;
     * Interactions: Go through piorization exercises, discuss timelines, and review roadmap.
 
-![](4_5.png)
+![](./Figure/4_5.png)
 
 * Difference between PM and PgM
 
-![](4_6.png)
+![](./Figure/4_6.png)
 
 * QA
     * Role: Test the product to make sure everything works correctly, document bugs, and increase testing capabilities;
     * Interactions: Review PRD, Review test plan and expected behaviors, and flag bugs and prioritize.
 
-![](4_7.png)
+![](./Figure/4_7.png)
     
 * Data Science
     * Role: Provide key insights based on data, design and roll out experiments, and quantify impact;
     * Interactions: Align on Data Science priorities, review PRD, and review results from experiments.
 
-![](4_8.png)
+![](./Figure/4_8.png)
 
 * Marketing & PR
     * Role: Explain what the product, lead user acquisition campaigns, manage web & social presence, make sure the right story lands, and organize press events;
     * Interactions: Align on marketing priorities, discuss production positioning, review launch announcements and presentations, pre-briefing for interviews, help to support press review issues.
 
-![](4_9.png)
+![](./Figure/4_9.png)
 
 * Sales
     * Role: Sell the product, build relationship with customers, and insight into customer sentiment;
     * Interactions: review roadmap and upcoming features, discuss feedback from customers and product shortcomings, and discuss features that would drive sales enablement.
 
-![](4_10.png)
+![](./Figure/4_10.png)
 
 * Support
     * Role: Help users when they run into problems, track top issues users encounter, and improve support processes and tooling;
     * Interactions: Review PRD and roadmap, discuss top customer issues, and discuss supportability.
     
-![](4_11.png)
+![](./Figure/4_11.png)
 
 * Legal & Privacy
     * Role: Compliance with the law and privacy regulations, make sure data is being collected with purpose, stored appropriately, and deleted when no longer needed;
     * Interactions: Review roadmap and PRDs, review flows and messaging, review data collection and storage, and discuss new legal & privacy requirements.
 
-![](4_12.png)
+![](./Figure/4_12.png)
 
 * i18n
     * Role: Adapt the product for other countries, translate the content in the product to other languages;
     * Interactions: Review expansion plans and prioritize, and review any i18n bugs.
 
-![](4_13.png)
+![](./Figure/4_13.png)
 
 ### 5. Exercise: New PM
 
@@ -290,7 +298,7 @@ Imagine that you have just started a job at a new company as a PM. How would you
 
 Create a one page onboarding plan for starting as a PM at a new company. Make sure to address the following
 
-![](5_1.png)
+![](./Figure/5_1.png)
 
 ### 6. Solution: New PM
 
@@ -303,7 +311,7 @@ When you join a new team or company, it can take awhile to ramp up. To get start
   * Long term goals and objectives
   * Current projects in flight
 
-![](6_1.png)
+![](./Figure/6_1.png)
   
 * People
   * My manager
@@ -335,9 +343,9 @@ When you join a new team or company, it can take awhile to ramp up. To get start
   * Use competitor products
   * Compare similarities and differences
   
-![](6_2.png)
+![](./Figure/6_2.png)
 
-![](6_3.png)
+![](./Figure/6_3.png)
   
 * Other
   * Process
@@ -346,7 +354,7 @@ When you join a new team or company, it can take awhile to ramp up. To get start
     * What requires approval
   * Shadow support and listen to customer calls
 
-![](6_4.png)
+![](./Figure/6_4.png)
 
 
 ### 7. Identifying Requeriments
@@ -357,7 +365,7 @@ After defining the right problem, it's time to start identifying the requirement
 
 This is also called **gathering requirements**. The PM needs to understand the context behind each requirement. All requirements identified must be documented in the PRD (a topic to be discussed in the following video).
 
-![](7_1.png)
+![](./Figure/7_1.png)
 
 There are some channels to identify the requeriments:
 
@@ -402,7 +410,7 @@ Creating a roadmap will keep the team updated about the product's evolution and 
 
 ##### Tips of Creating Roadmaps
 
-![](8_1.png)
+![](./Figure/8_1.png)
 
 * Tell a cohesive story: The roadmap work best when they **tell a story** about **what the team is going to build**, **how everything is related**, and **why this product is important**.
 * Get buy-in: Share it with your team and leadership to make everyone on the same page.
@@ -415,19 +423,19 @@ Creating a roadmap will keep the team updated about the product's evolution and 
 
 Figure 8 presents a roadmap example divided into three items.
 
-![Roadmap Example - Items](./lesson_02_figure_08.png)
+![Roadmap Example - Items](./Figure/lesson_02_figure_08.png)
 
 Bear in mind that each roadmap item needs to have its own PRD, which will have details about the specific problem and requirements.
 
 Figure 9 presents a roadmap example divided into teams.
 
-![Roadmap Example - Team](./lesson_02_figure_09.png)
+![Roadmap Example - Team](./Figure/lesson_02_figure_09.png)
 
 This kind of roadmap is helpful to define who is working on what and find some space to fill with extra projects.
 
 #### PRD
 
-![](8_2.png)
+![](./Figure/8_2.png)
 
 >The PRD is the source of truth that answers the question WHAT is the team building and WHY, which is incredibly helpful to drive alignment across the team. A PRD is never done and will continue to evolve as the team is working on the problem. It’s the PM’s job to write the PRD and keep it up to date as decisions are made and new information becomes available.
 
@@ -437,7 +445,7 @@ The PRD explains WHAT the product will solve, WHO will build it, and WHY this pr
 
 In addition, the PRD is a living document and will evolve continuously according to the new information gathered or when any decisions are made.
 
-![](8_3.png)
+![](./Figure/8_3.png)
 
 Figure 10 presents an example of PRD.
 
@@ -447,7 +455,7 @@ Figure 10 presents an example of PRD.
 >* outline the goals… both user goals, business goals, and success metrics. This section also helps to explain WHY the problem should be solved.
 >* describe the requirements… WHAT does the product do? Remember, as a PM you are answering WHAT the product does. Design and engineering have to figure out HOW.
 
-![PRD Example](./lesson_02_figure_10.png)
+![PRD Example](./Figure/lesson_02_figure_10.png)
 
 Additionally, other components can include:
 
@@ -490,28 +498,28 @@ Imagine you are the PM working on an alarm clock app. Write a PRD for the initia
 
 Frame the problem: Describe the opportunity. What are the benefits to the user? What are key insights? What does the competition do? Why does this matter?
 
-![](9_1.png)
+![](./Figure/9_1.png)
 
 **Goals**
 
 What are the product goals: What does success look like? How do you measure success?
 
-![](9_2.png)
+![](./Figure/9_2.png)
 
 **Key feature requirements**
 
 What should the product do? How should each feature be prioritized?
 
-![](9_3.png)
+![](./Figure/9_3.png)
 
-![](9_4.png)
+![](./Figure/9_4.png)
 **Other**
 
 Include any other components that you think could be helpful
 
-![](9_5.png)
+![](./Figure/9_5.png)
 
-![](9_6.png)
+![](./Figure/9_6.png)
 
 ### 10. Solution: Write a PRD
 
@@ -558,7 +566,7 @@ List out features on the roadmap that should be built in Q4. Make sure to includ
 
 ### 12. Solution: Build a roadmap
 
-![](12_1.png)
+![](./Figure/12_1.png)
 
 
 * Q1
