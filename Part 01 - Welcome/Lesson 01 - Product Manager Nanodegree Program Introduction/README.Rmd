@@ -1,0 +1,40 @@
+---
+title: '`Lesson 01` Product Strategy'
+author: Anderson Uyekita
+output:
+  html_document:
+    theme: spacelab
+    toc: true
+    toc_float: true
+    toc_depth: 4
+---
+
+* Title: Product Manager Nanodegree Program Introduction
+* Date: 29/03/2022
+* Course: Product Manager Nanodegree
+    * Instructor: Alex King
+    * COD: ND036
+
+--------------------------------------------------------------------------------
+
+## 1. Welcome to the Product Manager Nanodegree program<
+
+In this Nanodegree program, you will become exposed to the **foundational skills** of a product manager to **take a product from idea to launch**. Through `hands-on exercises`, you will be provided with opportunities to apply product management frameworks, tools, and methodologies across strategy, design, development, and marketing. As you go through the program, you will work on projects that allow you to take a software product through its entire lifecycle, simulating typical scenarios and decisions that a product manager would face when delivering a new product into the market. After completing this program, you will have driven the discovery, design, development, and delivery stages of a proposed software product.
+
+Moreover, you will learn from experienced product managers who have had hands-on experience leading the development of industry-leading software at some of the world’s most renowned tech companies like Uber, Google, and FutureAdvisor. In addition, you will have the opportunity to experience the various challenges and opportunities that product managers face when launching both B2B and B2C products.
+
+The skills gained in this Nanodegree Program will not only prepare you with the hard skills of being a product manager but also empower you with the soft skills to work cross-functionally in order to bring software products to market in an organization. Whether you are an aspiring product manager looking to transition into Product at a tech company or a product owner looking to better understand what it takes to manage software product development, Udacity’s Product Manager Nanodegree Program will equip you to lead the development of new software products within an organization.
+
+The project you submit gets reviewed and our project reviewers will provide personalized feedback on how you can improve your work. This project will serve as a portfolio you can use to demonstrate your skills. We are excited and honored that you are taking this step in your educational journey with us.
+
+## 2. Prerequisites
+
+No prior experience with Product Management is required. You will need to be comfortable with basic computer skills, such as managing files, using third-party online programs, and navigating the Internet through an online browser.
+
+## 3. Hardware/Software versions needed for this program
+
+You will need to use Google Slides or Microsoft PowerPoint, and Google Docs or Microsoft Word, as well as access to the internet and a 64-bit computer. You will also need a computer with a camera to record a video pitch, and use Figma and theplot.io, for which the requirements are:
+
+Minimum browser requirements are: Chrome 49+ Firefox 57+ Safari 10.1+ (Apple - macOS) Edge 14+ (Windows)
+
+Minimum operating system (OS) requirements are: Windows 8.1 or later Apple MacOS 10.10 (Yosemite) and later Any Linux OS that supports the browsers mentioned above Any Chrome OS that supports the browsers mentioned above

@@ -1,21 +1,35 @@
-# `Part 02` Product Strategy
+`Part 02` Product Strategy
+================
+Anderson Uyekita
 
-#### Tags
+-   Date: 01/04/2022
+-   Course: Product Manager Nanodegree
+    -   Instructor: Alex King
+    -   COD: ND036
 
-* Title: Introduction to Product Management
-* Date: 01/04/2022
-* Course: Product Manager Nanodegree
-    * Instructor: Alex King
-    * COD: ND036
+------------------------------------------------------------------------
 
-### Lesson 01
+#### Assignments & Deliverables
 
-This lesson is an introduction to Product Management -- what it is, why it matters, and a brief history. This Lesson also provides an overview of Course 1 for the PMND.
+-   Project: Pitch a Product Vision
 
-### Lesson 02
+#### Description
 
-This lesson covers the role and responsabilities of a PM. The lesson will also cover other functions that PM's frequently interact with, as well as artifacts that PM creates.
+The most effective products start with a comprehensive market-based,
+insight-driven strategy. Understand the role that product managers play
+during product development, with a focus on activities that happen early
+in the product development cycle. Learn how to identify the right
+problems to solve through market research, target user definition, and
+market sizing. Create a compelling vision and strategy that will set up
+the team to solve those problems. Understand how to communicate
+effectively to get people excited and bought into your ideas.
 
-### Lesson 03
+#### Product Strategy Syllabus
 
-This lesson covers how to make sure that you are solving the right problems by understanding the market, the user, and business goals to identify opportunities.
+-   Product Strategy
+    -   `Lesson 01` – Introduction to Product Management
+    -   `Lesson 02` – Role of a PM
+    -   `Lesson 03` – Problem Identification
+    -   `Lesson 04` – Vision & Strategy
+    -   `Lesson 05` – Communication Skills
+    -   `Lesson 06` – Pitch a Product Vision
