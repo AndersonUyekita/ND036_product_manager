@@ -32,4 +32,4 @@ effectively to get people excited and bought into your ideas.
     -   `Lesson 03` – Problem Identification
     -   `Lesson 04` – Vision & Strategy
     -   `Lesson 05` – Communication Skills
-    -   `Lesson 06` – Pitch a Product Vision
+    -   `Project 01` – Pitch a Product Vision

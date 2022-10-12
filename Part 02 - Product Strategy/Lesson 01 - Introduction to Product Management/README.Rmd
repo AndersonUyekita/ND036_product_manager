@@ -1,4 +1,14 @@
-# `Lesson 01` Product Strategy
+---
+title: '`Lesson 01` Product Strategy'
+author: Anderson Uyekita
+output:
+  github_document: default
+  html_document:
+    theme: spacelab
+    toc: true
+    toc_float: true
+    toc_depth: 4
+---
 
 #### Tags
 

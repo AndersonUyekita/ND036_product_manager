@@ -35,4 +35,4 @@ The most effective products start with a comprehensive market-based, insight-dri
     * `Lesson 03` -- Problem Identification
     * `Lesson 04` -- Vision & Strategy
     * `Lesson 05` -- Communication Skills
-    * `Lesson 06` -- Pitch a Product Vision
+    * `Project 01` -- Pitch a Product Vision
