@@ -1,8 +1,7 @@
-`Lesson 03` Product Strategy
+`Lesson 03` Problem Identification
 ================
 Anderson Uyekita
 
--   Title: Problem Identification
 -   Dates:
     -   From: 30/03/2022
     -   To: 05/05/2022
@@ -423,7 +422,7 @@ Simple Solution:
 -   Streaming services costs around \$10 per month
 -   Assume most people want streaming services
 
-330 million people X \$10 per month X 12 months per year = \$39.6B TAM
+$$TAM = \underbrace{330}_{\text{United States population}} \cdot \underbrace{10}_{\text{USD per month}} \cdot \underbrace{12}_{\text{months per year}} = \text{USD } 39.6 \text{ billions}$$
 
 ### 11.2. Bottom-up Approach
 
@@ -432,8 +431,7 @@ Refined Solution:
 -   Streaming services are generally sold and shared within a household
 -   There are roughly 130 million households in the US.
 
-130 million households X \$10 per month X 12 months per year = \$15.6B
-TAM
+$$TAM = \underbrace{130}_{\text{households in the US}} \cdot \underbrace{10}_{\text{USD per month}} \cdot \underbrace{12}_{\text{months per year}} = \text{USD } 15.6 \text{ billions}$$
 
 TAM for streaming in the US is \$15.6B
 
@@ -444,14 +442,13 @@ activities/projects of a product. In other words, ROI is a way to
 measure the efficiency of an investment. Figure 15 shows the ROI
 formula.
 
-$$ROI = \frac{amount\ gained - amount\ spent}{amount\ spent}$$ For
-software products, it looks like this:
-
-$$ROI = \frac{impact - cost\ of\ development\ time}{cost\ of\ development\ time}$$
+$$ROI = \frac{amount\ gained - amount\ spent}{amount\ spent}$$
 
 ![ROI Calculation](./Figure/lesson_03_figure_15.png)
 
-Where: \* Amount gained: Could be costs savings and increase of revenue.
+Where:
+
+-   Amount gained: Could be costs savings and increase of revenue.
 
 > The higher the ROI, the better the business outcome.
 
@@ -459,6 +456,8 @@ This means you could be able to create more impact with less effort.
 
 In the case of software development, the ROI will be a little different,
 according to Figure 16.
+
+$$ROI = \frac{impact - cost\ of\ development\ time}{cost\ of\ development\ time}$$
 
 ![ROI Calculation for Software
 Development](./Figure/lesson_03_figure_16.png)
@@ -468,7 +467,7 @@ Where:
 -   Cost of development time: This could be an estimate based on the
     team/people involved and how long it takes to complete the project.
 
-### Prioritization
+### 12.1. Prioritization
 
 Suppose we have calculated the Product ROI of 4 projects/problems.
 Figure 17 presents the details.
@@ -477,26 +476,33 @@ Figure 17 presents the details.
 
 In this problem, you have a budget constraint of \$5.
 
-Insight: \* At first glance, we could elect Problem A as the better
-option to be solved. You will spend all your budget. \* However, If you
-make a composition of Problem B and D, you will reach \$20 of impact and
-\$4 of cost, which means you will save \$1.
+Insight:
+
+-   At first glance, we could elect Problem A as the better option to be
+    solved. You will spend all your budget.
+-   However, If you make a composition of Problem B and D, you will
+    reach \$20 of impact and \$4 of cost, which means you will save \$1.
 
 If you have calculated the ROI for the problems, you will be able to
 understand the better choices better, as presented in Figure 18.
 
 ![Prioritization with ROI](./Figure/lesson_03_figure_18.png)
 
-Takeaways: \* The best ROI is related to Problem D; \* The second one is
-Problem A, but we can not afford (we only have \$4), and; \* The last
-Problem selected is Problem D.
+Takeaways:
 
-### Payback
+-   The best ROI is related to Problem D;
+-   The second one is Problem A, but we can not afford (we only have
+    \$4), and;
+-   The last Problem selected is Problem D.
+
+### 12.2. Payback
 
 What is the payback period?
 
 > The amount of time that it takes to regain the initial cost of
 > building the product.
+
+![](./Figure/12_1.png)
 
 Figure 18 shows the payback of Problem A to D.
 
@@ -512,7 +518,7 @@ Figure 18 shows the payback of Problem A to D.
 
 ## 13. Creating & Evaluating Hypothesis
 
-### Creating Hypothesis
+### 13.1. Creating Hypothesis
 
 > Before you build a product… you want to be sure that it will be
 > successful. You can create hypotheses to make sure that your
@@ -532,12 +538,15 @@ The are a couple of types of Hypothesis:
 | Differentiation | Is your solution differentiated? How does your solution compare to other solutions out there? | Is it different? Is our product the same or different? How is it different? What does it do that other products don’t?                                                                                                    |
 |      Value      | Does your product create enough value for users?                                              | Does your solution create enough value for users that they are willing to pay for it? How much will people pay for it? What can you do to increase willingness to pay? How much do people pay currently for alternatives? |
 
-### Evaluating Hypothesis
+### 13.2. Evaluating Hypothesis
 
-You can test or evaluate your hypothesis in several different ways: \*
-User Interviews: Useful when you have a prototype; \* Focus Group; \*
-Surveys: When you need a lot of answers, and you have limited questions,
-and; \* Design Sprint.
+You can test or evaluate your hypothesis in several different ways:
+
+-   User Interviews: Useful when you have a prototype;
+-   Focus Group;
+-   Surveys: When you need a lot of answers, and you have limited
+    questions, and;
+-   Design Sprint.
 
 If you find that:
 
@@ -555,6 +564,13 @@ If you find that:
 > successful. Creating hypotheses around the problem, your solution,
 > differentiation, and value and then testing them is a good strategy to
 > make sure that you find product/market fit.
+
+**Further Readings**
+
+-   [Product development through
+    hypotheses](./Data/Product%20development%20through%20hypotheses_%20formulating%20hypotheses.pdf)
+-   [Customer Development with Steve Blank: Hypothesis
+    Testing](./Data/Customer%20Development%20Steve%20Blank.pdf)
 
 ## 14. Building a Business Case
 
@@ -578,6 +594,8 @@ your Business Plan.
 
 Based on the topics above, the business case should organize into the
 following sections:
+
+![](./Figure/14_1.png)
 
 > **Executive Summary** The Executive summary summarizes the entire
 > document, including the recommendation. You want to make sure that it
@@ -610,6 +628,13 @@ Other tips to keep in mind:
 -   Shorter is better
 -   Make it interesting
 -   Demonstrate business value
+
+**Further Readings**
+
+-   [Sample Business
+    Case](./Data/Making%20Technology%20Investments%20Profitable%20-%202012%20-%20Keen%20-%20Sample%20Business%20Case.pdf)
+-   [5 Steps to Write a Solid Business
+    Case](./Data/Five%20Steps%20to%20Develop%20a%20Solid%20Business%20Case%20with%20Examples%20—%20Chase%20Consulting_%20Business%20Case%20Specialists.pdf)
 
 ## 15 Lesson Recap
 
