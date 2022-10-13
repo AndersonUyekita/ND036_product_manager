@@ -409,18 +409,45 @@ Read more about calculating TAM:
 
 > Calculate the TAM for streaming media services in the US
 
+![](./Figure/10_1.png)
+
 ## 11. Solution: TAM
 
+### 11.1. Top Down Approach
+
 ![Streaming TAM](./Figure/lesson_03_figure_14.png)
+
+Simple Solution:
+
+-   There are 330 million people in the United States
+-   Streaming services costs around \$10 per month
+-   Assume most people want streaming services
+
+330 million people X \$10 per month X 12 months per year = \$39.6B TAM
+
+### 11.2. Bottom-up Approach
+
+Refined Solution:
+
+-   Streaming services are generally sold and shared within a household
+-   There are roughly 130 million households in the US.
+
+130 million households X \$10 per month X 12 months per year = \$15.6B
+TAM
 
 TAM for streaming in the US is \$15.6B
 
 ## 12. ROI
 
-The ROI (return on investment) is a measure used to prioritize
+ROI (return on investment) is a measure used to prioritize
 activities/projects of a product. In other words, ROI is a way to
 measure the efficiency of an investment. Figure 15 shows the ROI
 formula.
+
+$$ROI = \frac{amount\ gained - amount\ spent}{amount\ spent}$$ For
+software products, it looks like this:
+
+$$ROI = \frac{impact - cost\ of\ development\ time}{cost\ of\ development\ time}$$
 
 ![ROI Calculation](./Figure/lesson_03_figure_15.png)
 
