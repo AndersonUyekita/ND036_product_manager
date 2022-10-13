@@ -3,8 +3,8 @@
 Anderson Uyekita
 
 -   Date:
-    -   From: 05/04/2022
-    -   To: XX/04/2022
+    -   From: 2022/10/12
+    -   To: 2022/10/13
 -   Course: Product Manager Nanodegree
     -   Instructor: Alex King
     -   COD: ND036
@@ -405,10 +405,17 @@ Analysis](./Figure/lesson_04_figure_11.png)
 > of feedback that will help you understand if you have product market
 > fit and what areas you should invest in next
 
-WARNING! MVP does not mean the product should feel incomplete,
+![](./Figure/12_1.png)
+
+**WARNING!** MVP does not mean the product should feel incomplete,
 unfinished, or unpolished. On the contrary, it is essential to deliver a
 high-quality experience to your users and investing good design and
 reliability.
+
+MVPs allow you to build an early version of your product that you can
+bring to market quickly, in order to deliver value to user and get
+feedback that you can use to influence how you build the rest of the
+product.
 
 The MVP is a starting point for your product to grow into something
 more. If you do not start on sound footing, users will abandon it before
@@ -441,13 +448,99 @@ What are the goals of building an MVP?
 The MVP allow you to get product to market fast, get feedback from real
 users, and learn/fail fast.
 
+**Further Reading**
+
+Learn more about MVPS
+
+-   [What is an
+    MVP?](./Data/What%20is%20a%20Minimum%20Viable%20Product.pdf)
+-   [Types of MVPs and
+    Examples](./Data/8%20Minimum%20Viable%20Product%20Examples%20to%20Start%20a%20Digital%20Business.pdf)
+-   [15+ Examples MVPs](./Data/15+examples%20of%20successful%20MVPs.pdf)
+
 ## 13. KPI’s
+
+**KPIs**, or *Key Performance Indicators*, are metrics that measure the
+performance of your product against your strategy. They capture the big
+picture and help you to understand how well your product is working (or
+isn’t working) and are aligned with business objectives. Additionally,
+they help to measure how changes you make to your product move the
+needle (or don’t)
+
+There are different types of KPIs for measuring different types of
+performance:
+
+-   **Business KPIs**: measures how you are doing against business goals
+-   **Product KPIs**: measures how the product is being used
+-   **Quality KPIs**: measures how often users encounter issues
+-   **Development KPIs**: measures how the team executes
+
+### 13.1. Tips for picking KPIs
+
+-   Don’t measure everything
+-   Align user, product, and business goals
+-   Make sure KPIs are measurable
+-   Use percentages and time periods when setting goals
+
+### 13.2. Example: Zoom KPIs
+
+|  KPI Type   | Description                                                                                                                                                                |
+|:-----------:|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Business   | • Average Revenue per User (ARPU)<br>• Conversion from free to paid subscription<br>• Churn rate (how often do users stop using the product)                               |
+|   Product   | • Weekly Active Users (how many users rely on Zoom at least once per week)<br>• Average number of calls per user per week<br>• Average time between sign up and first call |
+|   Quality   | • Percent of calls delivered in high quality<br>• Average user rating per call<br>• Support contact rate (percent of users who need to contact support for help)           |
+| Development | • On-time delivery of new features that are being developed<br>• Outages per month<br>• Average length of an outage                                                        |
+
+**Further Readings**
+
+Learn more about KPIs:
+
+-   [4 Things to Remember When Defining
+    KPIs](./Figure/4%20Things%20to%20Remember%20When%20Defining%20KPIs.pdf)
+-   [18 KPI Examples
+    Explained](./Figure/30%20KPIs%20To%20Measure%20Performance%20&%20How%20To%20Choose%20&%20Track%20Them%20-%20ClearPoint%20Strategy.pdf)
 
 ## 14. Exercise: KPI’s
 
+Identify KPIs for your fitness tracker product. Make sure to keep in
+mind the components that you mapped out when putting together your
+business model canvas. Think about how you can translate some of those
+things into KPIs across business, product, quality, and development
+dimensions.
+
 ## 15. Solution: KPI’s
 
+**Solution**
+
+![](./Figure/15_1.png)
+
+|     KPI     | Description                                                                                                                                                                                                                                |
+|:-----------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  Business   | • Conversion from free to paid subscription<br>• Subscriber churn rate (how often do users cancel their subscription)                                                                                                                      |
+|   Product   | • Average time it takes a user to achieve their first fitness goal<br>• Average number of sessions per user (to track engagement)<br>• Average goals completed per month (how successful is the product at helping users meet their goals) |
+|   Quality   | • App store ratings<br>• Trainer ratings<br>• Support contact rate (percent of users who need to contact support for help)                                                                                                                 |
+| Development | • On-time delivery of new features that are being developed<br>• Test coverage (percent of code that is covered by testing)                                                                                                                |
+
 ## 16. Lesson Recap
+
+You’ve reached the end of the Vision and Strategy lesson. We covered the
+following topics:
+
+-   Vision
+-   Strategy
+-   Business Models
+-   Competitive Analysis
+-   MVP
+-   KPIs
+
+At this point, you should be able to:
+
+-   Define and craft compelling Vision
+-   Identify strategic areas to invest in
+-   Build a Business Model Canvas
+-   Conduct a Competitive Analysis
+-   Understand the importance of defining MVP
+-   Define KPIs
 
 ## 17. Glossary
 
