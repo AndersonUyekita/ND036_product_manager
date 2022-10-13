@@ -52,22 +52,30 @@ At the end of this lesson, you’ll be able to:
 
 How to figure out which problem to solve?
 
+![](./Figure/1_2.png)
+
 There are many ways to discover it:
 
-* Market Research: What products or related products already exist? What's the competition like? What are the trends
-* User Research: Ethnographies, interviews, and focus groups.
-  * >It's is super important to go out and talk to users.
-* Product Data: If you already have a product and are looking for a follow-on product, you may use it to develop new features.
-* Support Data: The PM could find the issues that your users are running into.
-* Efficiency Gains: Automating the manual process could free up more bandwidth for the team to solve new problems.
+|Ways|Description|
+|:--:|:--------|
+|Market Research|What products or related products already exist? What's the competition like? What are the trends|
+|User Research|Ethnographies, interviews, and focus groups.<br>It's is super important to go out and talk to users.|
+|Product Data|If you already have a product and are looking for a follow-on product, you may use it to develop new features.|
+|Support Data|The PM could find the issues that your users are running into.|
+|Efficiency Gains|Automating the manual process could free up more bandwidth for the team to solve new problems.|
 
 Why is it so important to solve the right problem?
 
-* You have a limited amount of resources, and;
-* You have a limited amount of time.
+* You have a limited amount of resources;
+* You have a limited amount of time, and;
+* Each problem has different levels of impact (and you want/should maximize it).
 
-Figure 1 shows the tradeoff between **Business Goals** (Revenue, New Users, Engagement, Costs Reduction, Churn Reduction, etc.) and **Problems**.
-s
+Also, your problem needs to meet some Business Goals to survive.
+
+![](./Figure/1_3.png)
+
+Figure 1 shows the tradeoff between **Business Goals** (increasing Revenue, increasing New Users, increasing Engagement, Costs Reduction, Churn Reduction, etc.) and **Problems**.
+
 ![Viable Product Opportunities](./Figure/lesson_03_figure_01.png)
 
 If we overlap these two objectives, we will find **Viable Product Opportunities**.
@@ -76,7 +84,7 @@ If we overlap these two objectives, we will find **Viable Product Opportunities*
 
 its means:
 
-> You can have an incredible team and develop an excellent piece of technology, but if this product does not resonate with the market, none of that will matter.
+> You can have an **incredible team** and **develop an excellent piece of technology**, but if this product does **not resonate** with the market, none of that will matter.
 
 ## 3. Understanding the Market
 
@@ -106,12 +114,20 @@ Figure 04 presents a simple comparison between with and without Product/Market F
 
 > To better understand the market, you’ll want to talk to your users and customers. But before you do, you can look at some of these things to get more familiarity with the market:
 
-* Online research: To understand what is happening in the market and stay up-to-date.
-* Headlines & News: To be aware of what is relevant to the problem you are focused on
-* Similar products: Study the competition and see how they approach the problem (What they are doing well and struggling).
-* Trends: Can also provide crucial insights
-  * Mary Meeker’s Internet Trends
-  * Google Trends
+
+|Ways|Description|
+|:---:|:----------|
+|Online research|To understand what is happening in the market and stay up-to-date.|
+|Headlines & News|To be aware of what is relevant to the problem you are focused on|
+|Similar products|Study the competition and see how they approach the problem (What they are doing well and struggling)|
+|Trends|Can also provide crucial insights. Some sources of trends: <br>• Mary Meeker’s Internet Trends<br>• Google Trends|
+
+#### Further Readings
+
+To learn more about understanding the market check out:
+
+* [Mary Meeker’s Internet Trends](./Data/Internet_Trends_2019.pdf)
+* [12 Things about Product/Market Fit](./Data/12 Things about Product-Market Fit_Future.pdf)
 
 ## 4. Exercise: Industry Trends
 
@@ -127,19 +143,28 @@ Figure 04 presents a simple comparison between with and without Product/Market F
 
 ## 5. Solution: Industry Trends
 
-Benefits
+Benefits:
+
 * Controls weight
 * Combats health conditions & diseases
 * Improves mood
 * Boosts energy
 * Sleep better
 
-Existing Products
+Existing Products:
+
 * Smartwatches
 * Apps
 * Smart Ring
 
-Spending
+![](./Figure/1_4.png)
+
+![](./Figure/1_5.png)
+
+![](./Figure/1_6.png)
+
+Spending:
+
 * $155 / mo
 * $1,860 / yr
 
@@ -150,6 +175,23 @@ Spending
 |Gym|$33|
 |Meal Plans|$17|
 |Trainers|$14|
+|**Total**|155|
+
+There are 3 options to deliver health tracking.
+
+![](./Figure/1_7.png)
+
+|Way|Description|
+|:--:|:--------|
+|Hardware|Build specific hardware like a smart watch|
+|"in-between" solution|Build an app that run in other watches|
+|Software|Build an app|
+
+### Pros & Cons of each alternatives
+
+![](./Figure/1_8.png)
+
+* *Obs.: Investment to build*
 
 ## 6. Target User
 
@@ -167,6 +209,8 @@ For this reason, the PM must keep in mind your target user because they will hel
 * What it should do.
 
 > Your target user is who you are building your product for.
+
+![](./Figure/6_1.png)
 
 In other words, you are looking for users with shared characteristics who are likely interested in your product. To find this audience (users with shared characteristics), the PM will need to:
 
@@ -196,17 +240,26 @@ The PM will refer to the User Persona to stress test and challenge some of your 
 
 The creation process of a persona consist in define:
 
-* Name: Simple name that fits with the user's attribute;
-* Photo: It is a nice touch to include a photo;
-* Quote: Key insight about the user -- It is vital to use real quotes from the users interviewed during the research;
-* Description: This is a bit longer them the quote and tries to tell a story about the persona. It does not need to be super in-depth;
-* Frustrations: Need to point out the frustrations or challenges;
-* Goals: You also need to point out the users' goals, which the product should help them to achieve;
-* Motivations: Lastly, you need to point out what is the users' motivations
+|Persona Elements|Description|
+|:---:|:----------|
+|Name|Simple name that fits with the user's attribute;|
+|Photo|It is a nice touch to include a photo;|
+|Quote|Key insight about the user -- It is vital to use real quotes from the users interviewed during the research;|
+|Description|This is a bit longer them the quote and tries to tell a story about the persona. It does not need to be super in-depth;|
+|Frustrations|Need to point out the frustrations or challenges;|
+|Goals|You also need to point out the users' goals, which the product should help them to achieve;|
+|Motivations|Lastly, you need to point out what is the users' motivations|
 
 Figure 6 shows a Persona Example of a student who has a problem getting exercise.
 
 ![Persona Example](./Figure/lesson_03_figure_06.png)
+
+**Further Readings**
+
+Learn more about identifying target users:
+
+* [Are You Ready to Change Your Target Customer?](./Data/Are You Ready to Change Your Target Customer.pdf)
+* [How to Define Your Target Market: A Guide to Audience Research](./Data/What Is a Target Market (And How to Find Yours in 2022).pdf)
 
 ## 7. Exercise: Target User
 
@@ -220,36 +273,45 @@ Figure 6 shows a Persona Example of a student who has a problem getting exercise
 
 ![Meet Chris-- our avid runner who wants to beat his record](./Figure/lesson_03_figure_09.png)
 
-## 9. Total Addressable Market
+## 9. Total Addressable Market (TAM)
+
+**TAM**, or **total addressable market**, is a measure of the revenue opportunity for a product.
+
+Keep in mind that TAM is not a measure of your revenue or future revenue. Instead, it allows you to understand the size of the market if you had 100% of the market. A larger TAM indicates a larger opportunity, with more demand for a particular product. However, just because there’s a large TAM does not mean that a product is guaranteed to be successful…
+
+There are lots of other factors that will come into play, like competition.
 
 ![TAM Definition](./Figure/lesson_03_figure_10.png)
 
 > Keep in mind that **TAM is not a measure of your revenue or future revenue**.
 
-The TAM helps you to understand the market size. A larger TAM means a larger opportunity. However, a large TAM does not guarantee your product will be successful.
+The TAM helps you to understand the market size. A larger TAM means a larger opportunity. However, a large TAM **does not guarantee your product will be successful**.
 
 Figure 11 shows the TAM Formula.
 
 ![TAM Formula](./Figure/lesson_03_figure_11.png)
 
 Where:
+
 * ARPU stands for The average amount of revenue you receive for each user you have, usually measured by year.
 
-There are 3 (three) maners to calculate the TAM:
+There are 3 (three) ways to calculate the TAM:
 
 * Top-down;
 * Bottom-up, and;
 * Value Theory.
 
-### Top-down
+### 9.1. Top-down
 
 > You start with a high level view of the economy, and then narrow that down based on factors like demographics. For example, you usually will start will everyone in the world and narrow down that audience to people who are interested in your product.
+
+![](./Figure/9_1.png)
 
 ![TAM Top-Down Approach](./Figure/lesson_03_figure_12.png)
 
 In the top-down approach, we use very crude assumptions. For this reason, we have estimated the TAM as USD 241 billion.
 
-### Bottom-up
+### 9.2. Bottom-up
 
 > This involves using **known data points that you have** (data from early customers and sales) that you could extrapolate to represent a larger market opportunity. For example, if you are already selling a product in one region and were considering selling it globally.
 
@@ -258,17 +320,30 @@ Current users data from California:
 * 10 millions of liter per day, and;
 * California population is about 40 million people.
 
+![](./Figure/9_2.png)
+
 ![TAM Bottom-up approach](./Figure/lesson_03_figure_13.png)
 
 Due to the data from California, we could refine the TAM using the bottom-up approach. So the TAM estimated is USD 30.1 billion.
 
-### Value Theory
+### 9.3. Value Theory
 
 > Generally used for **new product categories where you don’t have much information to base estimates on**. This involves conducting market research to understand:
 > * How much people would pay for your product, and;
 > * how many potential customers you have.
 
+![](./Figure/9_3.png)
+
 The PM needs to answer those two questions by doing a lot of research and talking with the user to find the answer for how much the user is willing to pay and estimate the potential number of customers.
+
+**Further Readings**
+
+Read more about calculating TAM:
+
+* [How to calculate your total addressable market and make a great TAM slide for investors](./Data/How to calculate your total addressable market and make a great TAM slide for investors - For Entrepreneurs.pdf)
+
+
+
 
 ## 10. Exercise: TAM
 
