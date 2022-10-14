@@ -4,7 +4,7 @@ Anderson Uyekita
 
 -   Date:
     -   From: 2022/10/13
-    -   To: 2022/10/13
+    -   To: 2022/10/14
 -   Course: Product Manager Nanodegree
     -   Instructor: Alex King
     -   COD: ND036
@@ -149,19 +149,285 @@ Key things to keep in mind when building stories:
 
 **Further Research**
 
--   [Storytelling that Moves People](./Data/)
--   [How Pixar’s 22 Storytelling Rules Apply to Your Business](./Data/)
+-   [Storytelling that Moves
+    People](./Data/Storytelling%20That%20Moves%20People.pdf)
+-   [How Pixar’s 22 Storytelling Rules Apply to Your
+    Business](./Data/How%20Pixar’s%2022%20Storytelling%20Rules%20Apply%20to%20Your%20Business.pdf)
 
 ## 5. Exercise: Storytelling
 
+![](./Figure/5_1.png)
+
+### Step 1: Create a story about why you are taking this course
+
+-   Why are you taking this course?
+-   What you are hoping to get out of it?
+-   What are some of the challenges you might encounter?
+-   Where do you see yourself one year after completing this course?
+
+### Step 2: Practice!
+
+Practicing a story is critical! Rehearse your story, out loud, in front
+of a mirror.
+
+### Step 3: Share with a friend!
+
+Tell your friend your story and then ask your friend to:
+
+-   Summarize the story
+-   Explain how the story made them feel
+-   Describe what they thought was the most important takeaway
+
 ## 6. Persuasive Messages
+
+### 6.1. Why Does Persuasion Matter?
+
+![](./Figure/6_1.png)
+
+Persuasion is important because you work with lots of people and need to
+align the team needs to be aligned – but you don’t have direct authority
+over everyone. Instead, **you have to convince them!**
+
+### 6.2. Types of Persuasion
+
+There are 3 (three) differents modes of persuasion according to
+Aristotle.
+
+![](./Figure/6_2.png)
+
+The team will trust you if your messages use:
+
+| Types of Persuasion | Description                                                                                                        |
+|:-------------------:|:-------------------------------------------------------------------------------------------------------------------|
+| Ethos (credibility) | you are qualified to speak on the topic due to your experiences, personal character, background, and achievements. |
+|  Pathos (emotion)   | you can make your audience feel a certain way                                                                      |
+|    Logos (logic)    | you build an argument based on logic and facts                                                                     |
+
+The most persuasive messages use all three types of persuasion.
+
+### 6.3. How to Build Persuasive Messages:
+
+-   Know your audience and know what they care about.
+    -   It will allow you to tailor your message to specifically address
+        those concerns.
+-   Pick a viewpoint
+    -   Be decisive
+    -   Explain why it is the best outcome.
+-   Know the other perspectives
+    -   Including the pros and cons of each.
+-   Be data-driven (support you claims with data)
+-   Discuss objections
+    -   It is important to discuss objections.
+    -   Have a real discussion around the merits of those other
+        viewpoints and try to get the group to a consensus on them.
+-   End with a call to action
+    -   Outline the next steps.
+
+![](./Figure/6_3.png)
+
+**Further Research**
+
+Want to be more persuasive? Read these:
+
+-   [The Science of
+    Persuasion](./Data/The%20Science%20of%20Persuasion_%20How%20to%20Get%20People%20to%20Agree%20With%20What%20You%20Say.pdf)
+-   [Want to Be Extremely Persuasive? 9 Science-Backed Ways to Become a
+    Better
+    Leader](./Data/Want%20to%20Be%20Extremely%20Persuasive_%209%20Science-Backed%20Ways%20to%20Become%20a%20Better%20Leader%20_%20Inc.com.pdf)
+-   [21 Principles of
+    Persuasion](./Data/The%2021%20Principles%20of%20Persuasion.pdf)
 
 ## 7. Presentations
 
+![](./Figure/7_1.png)
+
+Presentations:
+
+-   Keep it simple;
+-   Do not try to cover everything;
+    -   Just focus on getting your keys points and messages across.
+
+As a PM, you will need to be constantly communicating and presentations
+are a great tool to share your ideas. But it’s important to learn how to
+create presentations that can effectively communicate your message.
+
+### 7.1. Presentation Structure
+
+-   Introduction: “This is what I’m going to tell you” and background
+    info
+-   Body: “This is what we’re here to talk about”
+-   Conclusion: “This is what I just told you” and next steps
+
+![](./Figure/7_2.png)
+
+![](./Figure/7_3.png)
+
+![](./Figure/7_4.png)
+
+### 7.2. Slide Layout
+
+-   Keep slides simple
+-   One takeaway per slide
+-   Limit the amount of text on each slide (no paragraphs)
+-   Use visuals carefully
+
+### 7.3. Tips when creating a presentation
+
+-   Presentation needs to stand on its own
+-   Rehearse
+-   Pre-brief key stakeholders before big presentations
+
+**Further Research**
+
+-   [19 Great Examples of PowerPoint Presentation
+    Design](./Data/20%20Great%20Examples%20of%20PowerPoint%20Presentation%20Design.pdf)
+-   [Quite Possibly the World’s Worst PowerPoint Presentation
+    Ever](./Data/worst-powerpoint-ever.pdf)
+-   [Bad PowerPoint Examples You Should Avoid at All
+    Costs](./Data/Bad%20PowerPoint%20Examples%20You%20Should%20Avoid%20at%20All%20Costs.pdf)
+
 ## 8. Exercise: Presentations
+
+![](./Figure/8_1.png)
+
+![](./Figure/8_2.png)
+
+This exercise has three steps:
+
+#### Step 1: Create a presentation
+
+Your topic is: Why you should avoid using your smartphone before bed and
+it should include at least 10 slides.
+
+As you craft your presentation, focus on:
+
+-   What are the key takeaways?
+-   What visuals can you use to support your presentation?
+
+#### Step 2: Practice!
+
+Just like with storytelling, practicing a presentation is critical!
+Rehearse it out loud and pay attention to slide transitions.
+
+#### Step 3: Present to a friend!
+
+Give the presentation to your friend and then ask your friend to share
+feedback:
+
+-   Were there any parts that were confusing?
+-   What was the most important takeaway?
 
 ## 9. Negotiation
 
+### 9.1. PMs Use Negotiation Every Day!
+
+![](./Figure/9_1.png)
+
+-   Negotiation is all about trying to reach an agreement when there is
+    conflict.
+    -   As a PM, you will be negotiating every day, whether it’s about
+        what the product should do, who’s going to be working on the
+        product, or timelines.
+-   Compromise to find the **best mutual outcome** for all parties
+    involved.
+
+### 9.2. Negotiation Styles
+
+![](./Figure/9_2.png)
+
+|     Style     | Description                                                                                                              |
+|:-------------:|:-------------------------------------------------------------------------------------------------------------------------|
+|  Competitive  | Getting exactly what I want                                                                                              |
+| Collaborative | Working together to find a solution where everyone is happy                                                              |
+|  Compromise   | Giving up some things in order to get some things in return                                                              |
+|   Avoidance   | Not comfortable in situations where there’s conflict (both lose because the issues end up not being directly discussed). |
+| Accommodation | Agreeing to something in order to preserve a relationship, even though it’s not in my best interest                      |
+
+In most cases a **Collaborative** style is the **best approach**.
+
+### 9.3. Strategies for Negotiation
+
+|                        Strategies                         | Description                                                                                                                                                                                       |
+|:---------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **BATNA<br>(Best Alternative To a Negotiated Agreement)** | Understanding each side’s best alternative to a negotiated agreement will help you focus on what happens if you can’t reach an agreement – and that can give you leverage to get to an agreement. |
+|                  **Focus on interests**                   | It’s helpful to understand what each side is interested in and why so understand where to focus during negotiation.                                                                               |
+|                  **Make the pie bigger**                  | Based on understanding the other side’s interests, are there any things that you can offer that will be valuable for them that won’t cost you anything or be difficult for you to give away?      |
+|                **Use objective criteria**                 | Using objective criteria bases the conversation in reality and helps remove emotion.                                                                                                              |
+|              **Present multiple solutions**               | Multiple solutions help you get more information because you receive feedback about how the other side feels about each option.                                                                   |
+
+### 9.4. Tips for negotiating:
+
+![](./Figure/9_3.png)
+
+|               Tips               | Description                                                                                            |
+|:--------------------------------:|:-------------------------------------------------------------------------------------------------------|
+|    Build strong relationships    | • Relationships matter a lot. It’s easier to negotiate due to the level of truth in each other.        |
+|       Use active listening       | • You must understand the other side’s point of view and why they have that point of view.             |
+|      Keep emotions in check      | • Stay calm and relaxed                                                                                |
+| Work together to find a solution | • Involve the other side in finding a solution.<br>• Align the goals to work towards the same purpose. |
+
+**Further Research**
+
+-   [Negotiation Skills for Product Managers: 5 Things You Need to
+    Know](./Data/Negotiation%20Skills%20for%20Product%20Managers_%205%20Things%20You%20Need%20to%20Know%20_%20by%20Brent%20Tworetzky%20_%20Agile%20Insider%20_%20Medium.pdf)
+-   [5 Highly Effective Negotiation Tactics Anyone Can
+    Use](./Data/5%20Highly%20Effective%20Negotiation%20Tactics%20Anyone%20Can%20Use%20_%20Inc.com.pdf)
+-   [4 Ways to Practice Your Negotiation
+    Skills](./Data/Use%20It%20Or%20Lose%20It_%204%20Ways%20to%20Practice%20Your%20Negotiation%20Skills.pdf)
+
 ## 10. Exercise: Negotiation
 
+For each of the scenarios listed below, think about how you would
+negotiate and which strategies you would use.
+
+### 10.1. Negotiations 1
+
+You just finished presenting your roadmap for next year. The Engineering
+VP has a lot of feedback that the plan doesn’t make sense given the
+current state of the product. What do you do?
+
+### 10.2. Negotiations 2
+
+Engineers have been ready to start working on a new feature for your
+product. However, the UX designs aren’t finalized and the designer wants
+to spend more time revising and iterating. However, both you and the
+engineers think that the designs look fine. What do you do?
+
+### 10.3. Negotiations 3
+
+You and a counterpart PM both have a large P0 feature that needs to be
+delivered. However, between the two of you and your teams you’ll only be
+able to deliver 1 of the 2 P0 features– the feature on your roadmap or
+the feature on your counterpart’s roadmap. What do you do?
+
 ## 11. Lesson Recap
+
+You’ve reached the end of the Problem Identification lesson. We covered
+the following topics:
+
+-   Active Listening
+-   Story telling
+-   Being Persuasive
+-   Presentations
+-   Negotiation
+
+You’ve also reached the end of this course. Now that you’ve completed
+this course, you should be able to:
+
+-   Describe the role of a PM and a PM’s critical partners
+-   Build roadmaps and write PRDs
+-   Identify and size opportunities
+-   Create a business case for a new product opportunity
+-   Define the use cases of a product, including its KPIs
+-   Build a business model for your new product
+-   Put together and present a compelling product pitch to gain internal
+    stakeholder buy-in
+
+## 12. Glossary
+
+|  Term  | Definition                                                                                              |
+|:------:|:--------------------------------------------------------------------------------------------------------|
+| Ethos  | The Greek word for character, describing the credibility of an individual                               |
+| Logos  | The Greek word for reason or logic                                                                      |
+| Pathos | The Greek word for emotion                                                                              |
+| BATNA  | Best Alternative To a Negotiated Agreement. If negotiations were to fail, BATNA is the next best option |
